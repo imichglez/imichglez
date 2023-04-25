@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a Computer Science student @ ITESM Guadalajara, currently in my 4th semester.<br>📚 I'm currently learning UX/UI Development.</p>
+<p align="left">I'm a Computer Science student @ ITESM Guadalajara, currently in my 4th semester.<br>📚 I'm currently learning Web Development.</p>
 
 ###
 
