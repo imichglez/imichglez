@@ -6,8 +6,7 @@
 
 ###
 
-<p align="left">I'm a Computer Science student @ ITESM Guadalajara, currently in my 6th semester.<br>📚 I'm learning Web Development.<br>
-💡 I'm working on a Java Chat Bot.</p>
+<p align="left">I'm a Computer Science student @ ITESM Guadalajara, currently in my last semester.<br>📚 I'm learning Advanced App Development.<br>
 
 ###
 
